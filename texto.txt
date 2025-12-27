@@ -4,4 +4,4 @@ Outra linha, para o commit de edit!
 
 Terceira linha, escrita no github, para dar pull.
 
-Quarta linha, local.
+Quarta linha, fixed conflict.
